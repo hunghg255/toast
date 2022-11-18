@@ -1,12 +1,29 @@
 # A tiny Toast
 
-## Import css
+[![npm version](https://badge.fury.io/js/toastjs-tiny.svg)](https://badge.fury.io/js/toastjs-tiny) [![npm](https://img.shields.io/npm/dw/toastjs-tiny.svg?logo=npm)](https://www.npmjs.com/package/toastjs-tiny) [![npm](https://img.shields.io/bundlephobia/minzip/toastjs-tiny)](https://www.npmjs.com/package/toastjs-tiny)
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+
+[Live Demo](https://hunghg255.github.io/toast/demo/index.html)
+
+## Installation
+
+[![NPM](https://nodei.co/npm/toastjs-tiny.png?compact=true)](https://nodei.co/npm/toastjs-tiny/)
+
+#### To install the latest stable version:
+
+```
+npm install --save toastjs-tiny
+
+or
+
+yarn add toastjs-tiny
+```
+
+#### Basic usage:
 
 ```css
 @import 'toastjs-tiny/dist/styles.css';
 ```
-
-## Using
 
 ```ts
 interface IToast {
