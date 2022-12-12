@@ -22,6 +22,10 @@
   max-width: 18px
 }
 
+.toast > span {
+  word-break: break-all;
+}
+
 .toast-container[data-position$="-right"] .toast {
   transform: translateX(110%)
 }
@@ -89,4 +93,11 @@
 .toast-container[data-position$="-center"] {
   left: 50%;
   transform: translateX(-50%)
+}
+
+@media (max-width: 375px) {
+  .toast-container[data-position$="-center"] {
+    left: 0;
+    transform: translateX(0)
+  }
 }
