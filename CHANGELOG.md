@@ -1,5 +1,11 @@
 # toastjs-tiny
 
+## 1.1.3
+
+### Patch Changes
+
+- 62aeb56: update npmignore
+
 ## 1.1.2
 
 ### Patch Changes
