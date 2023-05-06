@@ -1,6 +1,4 @@
 src
 webpack.config.js
-dist/index.html
 .changeset
 .github
-demo
