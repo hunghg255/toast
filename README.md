@@ -1,9 +1,19 @@
-# A tiny Toast
+<p align="center">
+<a href="https://www.npmjs.com/package/toastjs-tiny" target="_blank" rel="noopener noreferrer">
+<img src="https://api.iconify.design/material-symbols:circle-notifications.svg?color=%23b4b9fd" alt="logo" width='100'/></a>
+</p>
 
-[![npm version](https://badge.fury.io/js/toastjs-tiny.svg)](https://badge.fury.io/js/toastjs-tiny) [![npm](https://img.shields.io/npm/dt/toastjs-tiny.svg?logo=npm)](https://www.npmjs.com/package/toastjs-tiny) [![npm](https://img.shields.io/bundlephobia/minzip/toastjs-tiny)](https://www.npmjs.com/package/toastjs-tiny)
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg)](#contributors-)
+<p align="center">
+  A library to show toast notification on web
+</p>
 
-[Live Demo](https://hunghg255.github.io/toast/demo/index.html)
+<p align="center">
+  <a href="https://www.npmjs.com/package/toastjs-tiny" target="_blank" rel="noopener noreferrer"><img src="https://badge.fury.io/js/csvs-parsers.svg" alt="NPM Version" /></a>
+  <a href="https://www.npmjs.com/package/toastjs-tiny" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/npm/dt/csvs-parsers.svg?logo=npm" alt="NPM Downloads" /></a>
+  <a href="https://bundlephobia.com/result?p=toastjs-tiny" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/bundlephobia/minzip/toastjs-tiny" alt="Minizip" /></a>
+  <a href="https://github.com/hunghg255/toastjs-tiny/graphs/contributors" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/all_contributors-1-orange.svg" alt="Contributors" /></a>
+  <a href="https://github.com/hunghg255/toastjs-tiny/blob/main/LICENSE" target="_blank" rel="noopener noreferrer"><img src="https://badgen.net/github/license/hunghg255/toastjs-tiny" alt="License" /></a>
+</p>
 
 ## Installation
 
